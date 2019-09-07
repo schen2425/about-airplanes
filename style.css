@@ -1,0 +1,144 @@
+body{
+	font-size: 18px;
+	color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+a:link{
+    color:green;
+    font-size: 20px
+}
+
+a:visited{
+    color:black;
+    font-size: 20px
+}
+
+a:hover{
+    color:red;
+    font-size: 20px
+}
+
+a:active{
+    background-color: yellow;
+}
+
+h1{
+	color:#ffc;
+	background-color: #009;
+}
+h2{
+	font-size: 2.0em;
+}
+table, th, td {
+   border: 2px solid black;
+}
+table {
+    width: 90%;
+}
+
+th {
+    height: 38px;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+table {
+    border-collapse: collapse;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+#nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav:hover {
+    background-color: blue;
+}
+#nav1 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav1:hover {
+    background-color: blue;
+}
+#nav2 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav2:hover {
+    background-color: blue;
+}
+#nav3 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav3:hover {
+    background-color: blue;
+}
+#nav4 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav4:hover {
+    background-color: blue;
+}
+
+body {
+	background-color: lightblue;
+}
+
+#atlpic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+#b787pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+}
+
+.resize{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height:auto;
+}
